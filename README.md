@@ -42,3 +42,6 @@ Simply set the player's ScoreToHealth to 100 times the desired Health.
 ## LICENSE
 
 This datapack is released under the Apache License, Version 2.0, see LICENSE.
+
+## TUSB/ScoreToHealthでの改変内容
+このリポジトリで行われた変更は [こちら](https://github.com/Ai-Akaishi/ScoreToHealth/compare/master...TUSB:ScoreToHealth:master)から確認できます。
